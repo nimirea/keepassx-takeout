@@ -35,7 +35,7 @@
         'url' => 'url',
         'username' => 'username',
         'password' => 'password',
-        'extra' => 'comments',
+        'extra' => 'comment',
         'name' => 'title',
         'grouping' => 'group',
         'fav' => 0
